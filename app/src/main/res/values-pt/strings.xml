@@ -29,7 +29,7 @@
     <string name="onboarding.cta.back_sample" ditto_api_id="onboarding.cta.back-sample">&lt;- Retornar</string>
     <string name="onboarding.cta.forgot_password_sample" ditto_api_id="onboarding.cta.forgot-password-sample">Esqueceu Sua Senha\?</string>
     <string name="onboarding.cta.next_sample" ditto_api_id="onboarding.cta.next-sample">Próximo</string>
-    <string name="onboarding.cta.skip_sample" ditto_api_id="onboarding.cta.skip-sample">Pular</string>
+    <string name="onboarding.cta.skip_sample" ditto_api_id="onboarding.cta.skip-sample">a test component7745</string>
     <string name="onboarding.enter_phone_number.header_sample" ditto_api_id="onboarding.enter-phone-number.header-sample">Obrigado, <xliff:g id="userNameSample" example="Lily">%1$s</xliff:g>! Qual é o seu número de telefone\?</string>
     <string name="onboarding.information_disclaimer.description_sample" ditto_api_id="onboarding.information-disclaimer.description-sample">Por lei, precisamos coletar essas informações para confirmar sua identidade. Seus detalhes são criptografados com segurança e nunca serão compartilhados com entidades não autorizadas.</string>
     <string name="onboarding.information_disclaimer.header_sample" ditto_api_id="onboarding.information-disclaimer.header-sample">Por que precisamos dessas informações\?</string>
