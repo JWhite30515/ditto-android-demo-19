@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ct_variant">Configurações da conta</string>
+    <string name="ct_variant">Preferências da conta</string>
     <string name="ct_variant_replace">Configurações de notificação</string>
     <string name="ct_variant_same">Sair</string>
     <string name="ct_locale_only">Bem-vindo</string>
     <plurals name="ct_variant_plural">
-        <item quantity="one">Arquivo</item>
+        <item quantity="one">Arquivo único</item>
         <item quantity="other">Arquivos</item>
     </plurals>
 </resources>

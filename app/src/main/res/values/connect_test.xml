@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Code side of ditto-app bin/console/connectTest/cases.ts. Keep the values in sync with that file. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ct_exact">Review your transfer</string>
+    <string name="ct_exact">Review your transfer details</string>
     <string name="ct_duplicate">Add a recipient</string>
     <string name="ct_case">Pay Now</string>
     <string name="ct_punctuation">Transfer complete.</string>
-    <string name="ct_whitespace">Payment sent</string>
     <string name="ct_code_only">Freeze your card</string>
-    <string name="ct_variable">Hi <xliff:g id="firstName" example="Sam">%1$s</xliff:g>, welcome back</string>
-    <string name="ct_variant">Account settings</string>
-    <string name="ct_variant_replace">Notification settings</string>
-    <string name="ct_variant_same">Log out</string>
+    <string name="ct_variable">Hey <xliff:g id="userName" example="Sam">%1$s</xliff:g>, welcome back</string>
+    <string name="ct_variant">Account preferences</string>
+    <string name="ct_variant_same">Sign out</string>
     <string name="ct_variant_drop">Send money</string>
     <string name="ct_multi_site_a">Continue</string>
     <string name="ct_multi_site_b">Continue</string>
+    <string name="ct_invite">Invite <xliff:g id="friendName" example="Alex">%1$s</xliff:g></string>
     <plurals name="ct_plural_add">
         <item quantity="one">New alert45</item>
+        <item quantity="few">A few alerts</item>
         <item quantity="other">New alerts</item>
     </plurals>
     <plurals name="ct_plural_replace">
-        <item quantity="one">Message543</item>
+        <item quantity="one">Message</item>
         <item quantity="other">Messages</item>
     </plurals>
     <plurals name="ct_variant_plural">
