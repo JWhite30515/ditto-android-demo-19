@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Developer ID cases of ditto-app bin/console/connectTest/cases.ts (the dev-* keys). Keep in sync with that file. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ct_dev_rename">a test component774</string>
+    <string name="ct_dev_rename">a test component7745</string>
     <string name="ct_dev_same">Split the bill with <xliff:g id="friendName" example="Alex">%1$s</xliff:g></string>
     <string name="ct_dev_taken">Decline payment</string>
     <string name="ct_dev_copied">Cancel transfer</string>
