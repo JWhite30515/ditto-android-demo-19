@@ -93,10 +93,6 @@ fun LinkBankScreen(navigation: NavController) {
         }
         Column {
             Row {
-                Column(modifier = Modifier.fillMaxWidth(0.5f)){
-                    AppOutlinedButton(text = stringResource(id = R.string.onboarding_cta_skip_sample), onClick = { navigation.navigate("account-details") })
-                }
-                Spacer(modifier = Modifier.fillMaxWidth(0.04f))
                 Column{
                     AppButton(text = stringResource(id = R.string.onboarding_cta_next_sample), onClick = { navigation.navigate("account-details") })
                 }

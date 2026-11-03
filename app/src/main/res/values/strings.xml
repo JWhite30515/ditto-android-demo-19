@@ -35,7 +35,6 @@
     <string name="onboarding.cta.back_sample" ditto_api_id="onboarding.cta.back-sample">← Back</string>
     <string name="onboarding.cta.forgot_password_sample" ditto_api_id="onboarding.cta.forgot-password-sample">Forgot Password\?</string>
     <string name="onboarding.cta.next_sample" ditto_api_id="onboarding.cta.next-sample">Next</string>
-    <string name="onboarding.cta.skip_sample" ditto_api_id="onboarding.cta.skip-sample">Skip</string>
     <string name="onboarding.enter_phone_number.header_sample" ditto_api_id="onboarding.enter-phone-number.header-sample">Thanks, <xliff:g id="userNameSample" example="Lily">%1$s</xliff:g>! What’s your phone number\?</string>
     <string name="onboarding.information_disclaimer.description_sample" ditto_api_id="onboarding.information-disclaimer.description-sample">We’re required by law to collect this information to confirm your identity. Your details are safely encrypted and will never be shared with unauthorized entities.</string>
     <string name="onboarding.information_disclaimer.header_sample" ditto_api_id="onboarding.information-disclaimer.header-sample">Why do we need this information\?</string>
